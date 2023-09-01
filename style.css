@@ -1,0 +1,17 @@
+@import url("styles/topicos.css"); 
+  
+ :root { 
+     --cor-de-fundo: #e2e2e2; 
+     --branco: #fcf6f6; 
+     --laranja: #c98703; 
+     --fonte-principal: "Montserrat"; 
+     --azul: #003258; 
+     --preto: #000000; 
+ } 
+  
+ body { 
+     background-color: var(--cor-de-fundo); 
+     font-family: var(--fonte-principal); 
+     font-size: 16px; /tamanho da fonte/ 
+     font-weight: 400; /define o quão negrito seu texto é/ 
+ }
